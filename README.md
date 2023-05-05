@@ -1,9 +1,12 @@
-# generator
+Generator
+
 Description:
+
 I created this site to practice my Javascript skills. I learned throughout this project that I have a lot to learn regarding Javascript. I faced some challenges while working such as getting the password to generate, figuring out how to set the min and max for the length of the password, and lastly understanding functions. I overcame these challenges by researching documentation and asking my classmates for assistance on the parts I was struggling with. However while facing these challenges I learned more about arrays, math.random, and math.floor which I plan to take that knowledge with me on future projects.
 
 
 
+![Web capture_4-5-2023_202824_](https://user-images.githubusercontent.com/129248476/236372071-5d6e12f9-3edd-4851-84b2-7188f087020c.jpeg)
 
 
 
@@ -18,6 +21,10 @@ I created this site to practice my Javascript skills. I learned throughout this 
 
 
 
+Link to Application: https://maddieestes.github.io/generator/
+
+Usage: 
+You press the generate password button then answer the prompts given. Once you have answered the prompts press the generate password again to see your new created password with your preferences.
 
 
 
@@ -34,3 +41,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if.
 https://stackoverflow.com/questions/44591392/if-else-statement-with-prompt
 https://www.w3schools.com/jsref/jsref_obj_string.asp 
 https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm
+
+
+License:
+MIT LICENSE
