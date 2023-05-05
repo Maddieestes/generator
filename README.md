@@ -41,3 +41,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if.
 https://stackoverflow.com/questions/44591392/if-else-statement-with-prompt
 https://www.w3schools.com/jsref/jsref_obj_string.asp 
 https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm
+
+
+License:
+MIT LICENSE
