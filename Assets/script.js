@@ -15,7 +15,7 @@ function writePassword() {
 generateBtn.addEventListener("click", writePassword);
 
 
-// Arrays to make statements easier
+// Arrays to make if statements easier
 var upper = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
 var lower = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"];
 var number = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
@@ -27,7 +27,7 @@ function generatePassword() {
   var newArray = [];
   let Length = prompt("How long would you like your password to be? Choose a number between 8-128.");
 
-  // Password requirements
+  // Password length requirements to meet
   if (isNaN(Length)) {
     alert("Please Try again! You have to enter a number.");
     return;
@@ -75,7 +75,7 @@ function generatePassword() {
 
   }
 
-  //Building the password
+  //generating password
   for (var i = 0; i < Length; i++)
     text += newArray[Math.floor(Math.random() * newArray.length)];
   return text;
