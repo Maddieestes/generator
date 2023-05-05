@@ -6,6 +6,8 @@ I created this site to practice my Javascript skills. I learned throughout this 
 
 
 
+![Web capture_4-5-2023_202824_](https://user-images.githubusercontent.com/129248476/236372071-5d6e12f9-3edd-4851-84b2-7188f087020c.jpeg)
+
 
 
 
